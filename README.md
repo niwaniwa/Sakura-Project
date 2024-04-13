@@ -10,6 +10,7 @@
 ## 📚 Documentation
 
 ## 🌸 Project Sakura Repositories
-- [Sakura-Hardware-for-raspberry-Pi](https://github.com/niwaniwa/Sakura-Hardware)
+- [Sakura-Pi-Node](https://github.com/niwaniwa/Sakura-Hardware)
 - [Sakura-API](https://github.com/niwaniwa/Sakura-API)
 - [Sakura-Web](https://github.com/niwaniwa/Sakura-Web)
+- [Sakura-Gateway](https://github.com/niwaniwa/Sakura-Gateway)
